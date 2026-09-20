@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-size: 3em;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    color:cornflowerblue;
+    border-bottom: 2px solid black ;
+
+}
+
+p{ 
+    text-align: center;
+}
+
+p2{
+    margin-left:100px;
+    font-style: italic;
+
+}
+
+.card{
+
+    height: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    max-width: 700px;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+
+img{
+    max-width: 200px;
+    margin-left: 200px;
+}
