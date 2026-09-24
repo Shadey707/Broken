@@ -7,6 +7,16 @@ function nameOfFunction(name){
 // Call function, invoke, execute
 nameOfFunction("John");
 // event listenrs 
+   //Grab an element from the dom to lsiten to 
+    // let selectBox = document.querySelector("#theme-select")
+    // register event listener
+    // waiting for aspecific thing to happen, then run a function
+    // selectBox.addEventListener("change", changeTheme);
+
+    function changeTheme(event){
+        console.log(event.target.value);
+    }
+// changeTheme();
 
 // If statements
 
