@@ -9,6 +9,7 @@ console.log(age)
 console.log(name)
 
 age = 34;
+// test
 
 console.log(age);
 
